@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
-const char *ssid = "EpsilonNET";
-const char *password = "zaq123456";
+const char *ssid = "";
+const char *password = "";
 
 WiFiServer server(80);
 
